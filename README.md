@@ -1,4 +1,5 @@
 ### 👋 Hi there, I'm Nima Abarghooie
+🌱  I’m currently learning *Python-Django*
 
 </div>
 <div id="header" align="right">
