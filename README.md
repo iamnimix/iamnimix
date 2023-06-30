@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Nima Abarghooie
 🌱 I’m currently learning **_Python-Django_** <br/>
 ⚡ interested to learn and progress <br/>
-👾  I ❤️️ coding + ☕ !
+👾 coding + ☕ !
 
 ## :hammer_and_wrench: Languages and Tools :
 <div>
