@@ -1,6 +1,7 @@
 ### 👋 Hi there, I'm Nima Abarghooie
 🌱 I’m currently learning **_Python-Django_** <br/>
-⚡ interested to learn and progress
+⚡ interested to learn and progress <br/>
+👾  I ❤️️ coding + ☕ !
 
 </div>
 <div id="header" align="right">
