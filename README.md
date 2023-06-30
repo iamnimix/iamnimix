@@ -3,7 +3,7 @@
 ⚡ interested to learn and progress <br/>
 👾  I ❤️️ coding + ☕ !
 <div id="header" align="right">
-  <img src="https://user-images.githubusercontent.com/74038190/241764371-9d0fd0c4-5c7f-4122-b884-64a1e1685d2d.gif" width="250" />
+  <img src="https://user-images.githubusercontent.com/74038190/241764371-9d0fd0c4-5c7f-4122-b884-64a1e1685d2d.gif" width="100" />
 </div>
 
 ## :hammer_and_wrench: Languages and Tools :
