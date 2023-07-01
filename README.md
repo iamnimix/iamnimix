@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Nima Abarghooie
 <div align="left">
     <picture align="right">
-        <img align="right" width="300em" height="300em" src="https://user-images.githubusercontent.com/74038190/241764371-9d0fd0c4-5c7f-4122-b884-64a1e1685d2d.gif">
+        <img align="right" width="280em" height="280em" src="https://user-images.githubusercontent.com/74038190/241764371-9d0fd0c4-5c7f-4122-b884-64a1e1685d2d.gif">
     </picture>
   <br>
   🌱 I’m currently learning Python-Django <br/>
