@@ -4,7 +4,7 @@
         <img align="right" width="340em" height="340em" src="https://user-images.githubusercontent.com/74038190/241764371-9d0fd0c4-5c7f-4122-b884-64a1e1685d2d.gif">
     </picture>
   <br>
-  🌱 I’m currently learning **_Python-Django_** <br/>
+  🌱 I’m currently learning **Python-Django** <br/>
   ⚡ interested to learn and progress <br/>
   👾 coding + ☕ !
 </div>
